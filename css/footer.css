@@ -1,5 +1,6 @@
 .footer-container {
-    border-top: 1px solid #7EB77F;
+    /*border-top: 1px solid #7EB77F;*/
+    border-top: 1px solid #62BCF8;
     margin: 50px auto;
     padding-top: 50px;
 }
