@@ -263,8 +263,13 @@
                            
                         </ul>
                     </div>
-                    <span class="copyright"><i class="fas fa-copyright"></i> Charlie
-                        2022 - present</span>
+
+                    <span class="copyright" id="copyright"><i class="fas fa-copyright"></i> Charlie    
+                        <script>
+                            document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
+                        </script>
+                    </span>
+                    
                 </div>
                 <div class="footer-column">
                     <a href="/about.html" class="footer-button">
