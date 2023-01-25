@@ -34,7 +34,16 @@ h5 {
     vertical-align: middle;
 }
 
+.separating-container {
+    border-bottom: 1px solid #7EB77F;
+    margin: 0px auto;
+    padding-top: 50px;
+}
 /* === PROJECT DESCRIPTION + SLIDES === */
+.project-title {
+    
+    color: #7eb77f;
+}
 .project-description-container {
     max-width: 75rem;
     width: 100%;
