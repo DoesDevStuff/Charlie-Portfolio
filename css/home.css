@@ -137,20 +137,20 @@ h3 a:hover {
     width: -moz-fit-content;
     padding: 10px 12px;
     border-radius: 15px;
-    border: 1px solid #000000;
+    border: 1px solid #1F1F1F;
     font-weight: 700;
     letter-spacing: 0.05em;
     /* color: #1D263B; Oxford Blue*/  
     color: #1F1F1F; /*Eerie black*/
     background-color: #FFFFFF;
-    margin-top: 50px;
+    margin-top: 10px;
     transition: all 0.2s ease;
     cursor: pointer;
 }
 
 .pd img {
-    height: 25px;
-    width: 25px;
+    height: 15px;
+    width: 15px;
 }
 
 .pd span {
