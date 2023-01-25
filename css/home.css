@@ -117,17 +117,60 @@ h3 a:hover {
     font-weight: 700;
 }
 
-.email-button {
-    border: 1px solid #f08cae;
-    background-color: #F08CAE;
-}
-
 .cta:hover {
     /* border: 1px solid #7EB77F; */
     border: 1px solid #62BCF8;
     /* background-color: #7EB77F; */
     background-color: #62BCF8;
     padding: 10px 20px;
+}
+
+.pd-container {
+    margin: 0 auto;
+}
+
+.pd {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: fit-content;
+    width: -moz-fit-content;
+    padding: 10px 12px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    /* color: #1D263B; Oxford Blue*/  
+    color: #1F1F1F; /*Eerie black*/
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.pd img {
+    height: 25px;
+    width: 25px;
+}
+
+.pd span {
+    margin-left: 10px;
+    /* color: #1D263B; */
+    color: #1F1F1F;
+    font-weight: 700;
+}
+
+.pd:hover {
+    /* border: 1px solid #7EB77F; */
+    border: 1px solid #7eb77f;
+    /* background-color: #7EB77F; */
+    background-color: #7eb77f;
+    padding: 10px 20px;
+}
+
+.email-button {
+    border: 1px solid #f08cae;
+    background-color: #F08CAE;
 }
 
 .art-me {

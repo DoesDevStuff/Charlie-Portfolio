@@ -1,21 +1,33 @@
-/*==================== PORTFOLIO SWIPER  ====================*/
-let swiperPortfolio = new Swiper(".portfolio__container", {
-    cssMode: true,
+/*==================== SWIPER CONFIGURATION  ====================*/
+var swiper = new Swiper(".swiper-container", {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    centeredSlides: true,
+    freeMode: true,
+    grabCursor: true,
     loop: true,
-  
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-  
     pagination: {
       el: ".swiper-pagination",
-      clickable: true,
+      clickable: true
     },
-  
-    /* mousewheel: true,
-    keyboard: true, */
+    autoplay: {
+      delay: 4000,
+      disableOnInteraction: false
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev"
+    },
+    breakpoints: {
+      500: {
+        slidesPerView: 1
+      },
+      700: {
+        slidesPerView: 1
+      }
+    }
   });
+  
 
   /* MODAL STUFF NOT USED
   / ==================== SERVICES MODAL ==================== /
