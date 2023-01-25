@@ -1,0 +1,52 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    scroll-behavior: smooth;
+}
+
+h5 {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
+a, span {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: #FFFFFF;
+}
+
+.header-logo {
+    padding: 10px;
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+}
+
+.header-logo:hover {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.footer-logo {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    letter-spacing: 0.05em;
+}
+
+.footer-logo:hover {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+
+
+
+.modal-title {
+    color: #7eb77f;
+}
+.modal-dialog iframe{
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+}
