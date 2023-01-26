@@ -71,25 +71,75 @@ a, span {
     vertical-align: middle;
 }
 
+/* == VIdeo Container == */
+.video-container {
+  margin: 25px auto 0 auto;
+  position: relative;
+  padding-bottom: calc(var(--aspect-ratio, .5625) * 100%);
+  height: 0;
+  width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+/***** Top content *****/
+
+.top-content { width: 100%; padding: 60px 0 120px 0; }
+.top-content .carousel-control-prev { left: -80px; border-bottom: 0; }
+.top-content .carousel-control-next { right: -80px; border-bottom: 0; }
+.top-content .carousel-indicators { bottom: -40px; }
+
+
+
+
 /* === PROJECT DESCRIPTION + SLIDES === */
-.project-title {
+.readme-title {
+  
     color: #7eb77f;
 }
-.project-description-container {
+
+.summary-description {
+  margin: 20px auto 0 auto;
+  text-align: center;
+  max-width: 1000px;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.025em;
+}
+
+
+.readme-description {
+  margin: 20px auto 0 auto;
+  text-align: center;
+  max-width: 1000px;
+  font-size: 24px;
+  line-height: 1.5em;
+  letter-spacing: 0.025em;
+}
+
+
+.project-details-container {
     max-width: 75rem;
     width: 100%;
     padding: 4rem 2rem;
     margin: 0 auto;
   }
 
-  .project-description-container .swiper-container .swiper-wrapper .swiper-slide .card-image {
+  .project-details-container .swiper-container .swiper-wrapper .swiper-slide .card-image {
     background: #ffffff;
     border: none;
     outline: none;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
     border-radius: 2px;
   }
-  .project-description-container .swiper-container .swiper-wrapper .swiper-slide .card-image img {
+  .project-details-container .swiper-container .swiper-wrapper .swiper-slide .card-image img {
     display: block;
     position: relative;
     left: 0;
@@ -99,23 +149,23 @@ a, span {
     -o-object-fit: cover;
        object-fit: cover;
   }
-  .project-description-container .swiper-container .swiper-pagination-bullet {
+  .project-details-container .swiper-container .swiper-pagination-bullet {
     opacity: 0.8;
     background: #252a32;
   }
-  .project-description-container .swiper-container .swiper-pagination-bullet-active {
+  .project-details-container .swiper-container .swiper-pagination-bullet-active {
     background: #ffffff;
   }
-  .project-description-container .swiper-container .swiper-button-next,
-  .project-description-container .swiper-container .swiper-button-prev {
+  .project-details-container .swiper-container .swiper-button-next,
+  .project-details-container .swiper-container .swiper-button-prev {
     background-image: none;
     background-size: 0;
     background-repeat: no-repeat;
     background-position: 0;
     margin-top: -1rem;
   }
-  .project-description-container .swiper-container .swiper-button-next .arrow-icon,
-  .project-description-container .swiper-container .swiper-button-prev .arrow-icon {
+  .project-details-container .swiper-container .swiper-button-next .arrow-icon,
+  .project-details-container .swiper-container .swiper-button-prev .arrow-icon {
     font-size: 2rem;
     color: #ffffff;
   }
