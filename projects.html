@@ -92,9 +92,28 @@
                 <div class="project-cards-container">
 
                     <div class="card">
-                        <img src="./img/project-preview/monolith-preview.jpg"
-                            alt="Project Preview Screenshot" class="card-preview-img">
-
+                        <!-- REMEMBER TO GIVE MODAL UNIQUE ID TAGS-->
+                        <!--Linking image with video modal-->
+                        <a href="#myModal_Monolith" data-toggle="modal">
+                             <img src="./img/project-preview/monolith-preview.jpg"
+                                    alt="Project Preview Screenshot" class="card-preview-img">
+                        </a>
+                        <!-- Modal HTML -->
+                        <div id="myModal_Monolith" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Monolith Vertical Slice</h5>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="embed-responsive embed-responsive-16by9">
+                                            <iframe id="cartoonVideo" class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/MfwtUXyYIoI" allowfullscreen></iframe>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="card-info">
                             <div class="title-and-links">
                                 <span class="project-title">
@@ -152,11 +171,12 @@
                     </div>
                     <div class="card">
                         <!--Linking image with video modal-->
-                        <a href="#myModal" data-toggle="modal">
+                        <!-- REMEMBER TO GIVE MODAL UNIQUE ID TAGS-->
+                        <a href="#myModal_Dissertation" data-toggle="modal">
                             <img src="./img/project-preview/Customcolour-preview.png" alt="Project Preview Screenshot" class="card-preview-img">
                         </a>
                         <!-- Modal HTML -->
-                        <div id="myModal" class="modal fade">
+                        <div id="myModal_Dissertation" class="modal fade">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-header">
@@ -256,8 +276,28 @@
                         </div>
                     </div> 
                     <div class="card">
-                        <img src="./img/project-preview/Using_Deep_Q-learning_Networks_in_Tetris-preview1.png"
+                         <!--Linking image with video modal-->
+                         <a href="#myModal_AI" data-toggle="modal">
+                            <img src="./img/project-preview/Using_Deep_Q-learning_Networks_in_Tetris-preview1.png"
                             alt="Project Preview Screenshot" class="card-preview-img">
+                        </a>
+                        
+                        <!-- Modal HTML -->
+                        <div id="myModal_AI" class="modal fade">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Tetris AI GIF</h5>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="embed-responsive embed-responsive-3by4">
+                                            <img src="./video files/Tetris.gif" alt="Project Preview Screenshot" class="card-preview-img">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="card-info">
                             <div class="title-and-links">
                                 <span class="project-title">
