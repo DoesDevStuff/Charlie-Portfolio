@@ -14,6 +14,16 @@ This is my personal portfolio website
 
 <img alt="Font Example Screenshot" src="./img/readme/nunito.png">
 
+### Color Scheme
+
+- White - all normal text color
+- Eerie Black - page background color, text color on white background
+- Charm Pink - links, nav bar item hover, icon hover color
+- Maya Blue - Charm Pink links hover color
+- Divine Green - project skill text color
+- Slate Gray - mobile navbar background color
+
+<a href="https://coolors.co/ffffff-1f1f1f-f08cae-62bcf8-7eb77f-6b818c"><img alt="Color Palette Screenshot" src="./img/readme/palette.png"></a>
 
 ## Built With
 
