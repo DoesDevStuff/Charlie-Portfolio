@@ -1,5 +1,5 @@
 # Charlie-Portfolio
-This is my personal portfolio website
+This is the source code for my personal portfolio website - a games programmer and web developer
 
 ## Design
 
