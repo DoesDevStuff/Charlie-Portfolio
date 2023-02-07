@@ -1,6 +1,14 @@
 # Charlie-Portfolio
 This is the source code for my personal portfolio website - a games programmer and web developer
 
+## Table of Contents
+
+- [Design](#design)
+  - [Fonts](#fonts)
+  - [Color Scheme](#color-scheme)
+- [Built With](#built-with)
+- [Creator / Maintainer](#creator--maintainer)
+
 ## Design
 
 ### Fonts
