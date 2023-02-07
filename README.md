@@ -34,7 +34,6 @@ This is my personal portfolio website
 - [Figma](https://www.figma.com/) for design and prototyping tools
 - [Balsamiq](https://balsamiq.com/) for initial wireframe visualisation
 
----
 
 ## Creator / Maintainer
 
