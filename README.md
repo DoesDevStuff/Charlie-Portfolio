@@ -15,6 +15,7 @@ This is the source code for my personal portfolio website - a games programmer a
 - [Design](#design)
   - [Fonts](#fonts)
   - [Color Scheme](#color-scheme)
+  - [Icon](#icon)
 - [Built With](#built-with)
 - [Creator / Maintainer](#creator--maintainer)
 
