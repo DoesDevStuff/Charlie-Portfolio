@@ -33,3 +33,21 @@ This is my personal portfolio website
 - [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
 - [Figma](https://www.figma.com/) for design and prototyping tools
 - [Balsamiq](https://balsamiq.com/) for initial wireframe visualisation
+
+---
+
+## Creator / Maintainer
+
+Charlie Joshi ([Charlie - @DoesDevStuff](https://github.com/DoesDevStuff))
+
+If you have any questions, comments, or concerns, feel free to contact me below.
+
+<p align="left">
+  <a href="mailto:charlietheindiedev@gmail.com"> 
+    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+### License
+
+Copyright &copy; 2022-2023 Charlie Joshi. All rights reserved.
