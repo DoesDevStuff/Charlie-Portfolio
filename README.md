@@ -43,15 +43,6 @@ This is the source code for my personal portfolio website - a games programmer a
 
 <a href="https://coolors.co/ffffff-1f1f1f-f08cae-62bcf8-7eb77f-6b818c"><img alt="Color Palette Screenshot" src="./img/readme/palette.png"></a>
 
-## Built With
-
-- [HTML5](https://www.w3schools.com/html/)
-- [CSS3](https://www.w3schools.com/css/)
-- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
-- [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
-- [Figma](https://www.figma.com/) for design and prototyping tools
-- [Balsamiq](https://balsamiq.com/) for initial wireframe visualisation
-
 ### Icon
 
 This is the icon of me on the Home and About pages.
@@ -62,6 +53,15 @@ _Art credits to [Picrew](https://picrew.me/image_maker/407027)._
 <img alt="Me Icon" src="./img/me-icon.png" width="250px">
 <img alt="Me Icon Smile" src="./img/me-icon-smile.png" width="250px">
 <img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
+
+## Built With
+
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+- [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
+- [Figma](https://www.figma.com/) for design and prototyping tools
+- [Balsamiq](https://balsamiq.com/) for initial wireframe visualisation
 
 ## Creator / Maintainer
 
