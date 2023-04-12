@@ -16,6 +16,7 @@ This is the source code for my personal portfolio website - a games programmer a
   - [Fonts](#fonts)
   - [Color Scheme](#color-scheme)
   - [Icon](#icon)
+- [Wireframes](#wireframes)
 - [Built With](#built-with)
 - [Creator / Maintainer](#creator--maintainer)
 
@@ -54,13 +55,19 @@ _Art credits to [Picrew](https://picrew.me/image_maker/407027)._
 <img alt="Me Icon Smile" src="./img/me-icon-smile.png" width="250px">
 <img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
 
+## Wireframes
+I made a mix of low and high fidelity wireframes for the pages of my website. The final product looks mostly like this, but small changes are made along the way.
+
+<img alt="Wireframe" src="./img/readme/wireframe-home-desktop.png" >
+<img alt="Wireframe" src="./img/readme/wireframe-home-mobile.png" >
+
 ## Built With
 
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 - [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
-- [Figma](https://www.figma.com/) for design and prototyping tools
+- [Figma](https://www.figma.com/) for design, prototyping tools and final wireframe creation
 - [Balsamiq](https://balsamiq.com/) for initial wireframe visualisation
 
 ## Creator / Maintainer
