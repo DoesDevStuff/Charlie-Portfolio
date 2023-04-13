@@ -84,4 +84,4 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 ### License
 
-Copyright &copy; 2022-2023 Charlie Joshi. All rights reserved.
+Copyright &copy; 2023 ~ Charlie Joshi. All rights reserved.
